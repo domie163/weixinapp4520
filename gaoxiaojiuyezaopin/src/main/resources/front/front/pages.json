@@ -1,0 +1,396 @@
+{
+	"pages": [{
+		"path": "pages/login/login",
+		"style": {
+			"navigationBarBackgroundColor": "#276ace",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "登录"
+		}
+	},{
+		"path": "pages/register/register",
+		"style": {
+			"navigationBarBackgroundColor": "#276ace",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "注册"
+		}
+	},{
+		"path": "pages/forget/forget",
+		"style": {
+			"navigationBarBackgroundColor": "#276ace",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "忘记密码"
+		}
+		},
+		{
+		"path": "pages/changepassword/changepassword",
+		"style": {
+		"navigationBarBackgroundColor": "#276ace",
+		"navigationBarTextStyle": "white",
+		"navigationBarTitleText": "修改密码"
+			}
+		},
+		{
+		"path": "pages/center/center",
+		"style": {
+			"navigationBarBackgroundColor": "#276ace",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的"
+		}
+	},{
+		"path": "pages/user-info/userinfo",
+		"style": {
+			"navigationBarBackgroundColor": "#276ace",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "用户信息"
+		}
+	}
+
+       ,{
+		"path": "pages/forum/forum-index",
+		"style": {
+			"navigationBarBackgroundColor": "#276ace",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "全部发帖"
+		}
+	},{
+		"path": "pages/forum/forum-detail",
+		"style": {
+			"navigationBarBackgroundColor": "#276ace",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "发帖详情"
+		}
+	},{
+		"path": "pages/forum/forum-my",
+		"style": {
+			"navigationBarBackgroundColor": "#276ace",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的发帖"
+		}
+	},{
+		"path": "pages/forum/forum-add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#276ace",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "发贴(修改/新增)"
+		}
+	}
+	,{
+		"path": "pages/gongsi/list",
+		"style": {
+			"navigationBarBackgroundColor": "#276ace",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "企业展示"
+		}
+	},{
+		"path": "pages/gongsi/list2",
+		"style": {
+			"navigationBarBackgroundColor": "#276ace",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的企业"
+		}
+	},{
+		"path": "pages/gongsi/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#276ace",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "企业添加/修改"
+		}
+	},{
+		"path": "pages/gongsi/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#276ace",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "企业详情"
+		}
+	}
+	,{
+		"path": "pages/jianli/list",
+		"style": {
+			"navigationBarBackgroundColor": "#276ace",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "简历展示"
+		}
+	},{
+		"path": "pages/jianli/list2",
+		"style": {
+			"navigationBarBackgroundColor": "#276ace",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的简历"
+		}
+	},{
+		"path": "pages/jianli/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#276ace",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "简历添加/修改"
+		}
+	},{
+		"path": "pages/jianli/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#276ace",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "简历详情"
+		}
+	}
+	,{
+		"path": "pages/news/list",
+		"style": {
+			"navigationBarBackgroundColor": "#276ace",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "公告信息展示"
+		}
+	},{
+		"path": "pages/news/list2",
+		"style": {
+			"navigationBarBackgroundColor": "#276ace",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的公告信息"
+		}
+	},{
+		"path": "pages/news/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#276ace",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "公告信息添加/修改"
+		}
+	},{
+		"path": "pages/news/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#276ace",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "公告信息详情"
+		}
+	}
+	,{
+		"path": "pages/tongzhi/list",
+		"style": {
+			"navigationBarBackgroundColor": "#276ace",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "企业通知展示"
+		}
+	},{
+		"path": "pages/tongzhi/list2",
+		"style": {
+			"navigationBarBackgroundColor": "#276ace",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的企业通知"
+		}
+	},{
+		"path": "pages/tongzhi/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#276ace",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "企业通知添加/修改"
+		}
+	},{
+		"path": "pages/tongzhi/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#276ace",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "企业通知详情"
+		}
+	}
+	,{
+		"path": "pages/toudi/list",
+		"style": {
+			"navigationBarBackgroundColor": "#276ace",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "简历投递展示"
+		}
+	},{
+		"path": "pages/toudi/list2",
+		"style": {
+			"navigationBarBackgroundColor": "#276ace",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的简历投递"
+		}
+	},{
+		"path": "pages/toudi/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#276ace",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "简历投递添加/修改"
+		}
+	},{
+		"path": "pages/toudi/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#276ace",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "简历投递详情"
+		}
+	}
+	,{
+		"path": "pages/yonghu/list",
+		"style": {
+			"navigationBarBackgroundColor": "#276ace",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "用户展示"
+		}
+	},{
+		"path": "pages/yonghu/list2",
+		"style": {
+			"navigationBarBackgroundColor": "#276ace",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的用户"
+		}
+	},{
+		"path": "pages/yonghu/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#276ace",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "用户添加/修改"
+		}
+	},{
+		"path": "pages/yonghu/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#276ace",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "用户详情"
+		}
+	}
+	,{
+		"path": "pages/zhaopin/list",
+		"style": {
+			"navigationBarBackgroundColor": "#276ace",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "职位招聘展示"
+		}
+	},{
+		"path": "pages/zhaopin/list2",
+		"style": {
+			"navigationBarBackgroundColor": "#276ace",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的职位招聘"
+		}
+	},{
+		"path": "pages/zhaopin/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#276ace",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "职位招聘添加/修改"
+		}
+	},{
+		"path": "pages/zhaopin/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#276ace",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "职位招聘详情"
+		}
+	}
+	,{
+		"path": "pages/zhaopinCollection/list",
+		"style": {
+			"navigationBarBackgroundColor": "#276ace",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "职位收藏展示"
+		}
+	},{
+		"path": "pages/zhaopinCollection/list2",
+		"style": {
+			"navigationBarBackgroundColor": "#276ace",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的职位收藏"
+		}
+	},{
+		"path": "pages/zhaopinCollection/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#276ace",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "职位收藏添加/修改"
+		}
+	},{
+		"path": "pages/zhaopinCollection/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#276ace",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "职位收藏详情"
+		}
+	}
+	,{
+		"path": "pages/zhaopinLiuyan/list",
+		"style": {
+			"navigationBarBackgroundColor": "#276ace",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "职位留言展示"
+		}
+	},{
+		"path": "pages/zhaopinLiuyan/list2",
+		"style": {
+			"navigationBarBackgroundColor": "#276ace",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的职位留言"
+		}
+	},{
+		"path": "pages/zhaopinLiuyan/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#276ace",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "职位留言添加/修改"
+		}
+	},{
+		"path": "pages/zhaopinLiuyan/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#276ace",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "职位留言详情"
+		}
+	}
+			,{
+		"path": "pages/index/index",
+		"style": {
+			"navigationBarBackgroundColor": "#276ace",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "高校就业招聘系统首页"
+		}
+	}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "高校就业招聘系统",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"tabBar": {
+		"color": "#FFFFFF",
+		"selectedColor": "#fff",
+		"borderStyle": "black",
+		"backgroundColor": "#29bdd9",
+		"list": [{
+				"pagePath": "pages/index/index",
+				"iconPath": "static/tabs/index.png",
+				"selectedIconPath": "static/tabs/index1.png",
+				"text": "首页"
+			}
+			,{
+				"pagePath": "pages/gongsi/list",
+				"iconPath": "static/tabs/type.png",
+				"selectedIconPath": "static/tabs/type1.png",
+				"text": "企业"
+			}
+			,{
+				"pagePath": "pages/zhaopin/list",
+				"iconPath": "static/tabs/type.png",
+				"selectedIconPath": "static/tabs/type1.png",
+				"text": "职位招聘"
+			}
+			,{
+			 	"pagePath": "pages/forum/forum-index",
+				"iconPath": "static/tabs/order.png",
+			 	"selectedIconPath": "static/tabs/order1.png",
+				"text": "论坛"
+			}
+			,{
+				"pagePath": "pages/center/center",
+				"iconPath": "static/tabs/mine.png",
+				"selectedIconPath": "static/tabs/mine1.png",
+				"text": "我的"
+			}
+		]
+	}
+	// "permission": {
+	// 	"scope.userLocation": {
+	// 		"desc": ""
+	// 	}
+	// },
+	// "requiredPrivateInfos": ["getLocation", "chooseLocation"]
+}
